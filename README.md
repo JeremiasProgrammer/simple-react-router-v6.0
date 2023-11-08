@@ -1,2 +1,2 @@
-# Simple React Router v.6.18
+# Simple React Router v.6.0
 
